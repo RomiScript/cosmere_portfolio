@@ -1,13 +1,11 @@
 
 import './App.css'
 
-import React from 'react'
+import Hero from './components/hero.jsx'
 
-const App = () => {
+function App() {
   return (
-    <div>
-      
-    </div>
+    <Hero />
   )
 }
 
